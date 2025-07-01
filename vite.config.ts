@@ -10,4 +10,5 @@ export default defineConfig({
             },
         }),
     ],
+    base: '/shri2025-task/'
 });
